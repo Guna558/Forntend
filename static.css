@@ -1,0 +1,110 @@
+     .div{
+    display: flex;
+    position: static;
+    border: 2px dotted;
+    height: 200px;
+    width: 800px;
+
+}
+.div1{
+    position: static;
+    border: 2px dotted ;
+    height: 200px;
+    width: 200px;
+    background-color:red;
+    margin-right:5px ;
+}
+.div2{
+    position:static;
+    border: 2px dotted;
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-right: 5px;
+}
+.div3{
+    position:static;
+    border: 2px dotted;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin-right: 5px;
+}
+.div4{
+    position: static;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+
+}
+.div10{
+    position: relative;
+    border: 2px dotted black;
+    width: 800px;
+    height: 200px;
+    display: flex;
+    margin-top: 30px;
+
+}
+.div11{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    margin-left: 5px;
+}
+.div22:nth-child(2){
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(12, 189, 71);
+    top: 40px;
+    left: 40px;
+    
+}
+.div23{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    margin-right: 5px;
+    
+
+}
+.div24{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    margin-left: 5px;
+}
+.div100{
+    position: absolute;
+    display: flex;
+    border: 2px dotted black;
+    height: 200px;
+    width: 800px;
+
+
+}
+.div101{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin-left: 5px;
+}
+div102{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin-left: 5px;
+}
+div103{
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin-left: 5px;
+}
